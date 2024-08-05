@@ -1,4 +1,4 @@
-# Hi guys! 👋
+# Hi guys 👋!
 
 ## I'm Xuan Huy Vu
 
