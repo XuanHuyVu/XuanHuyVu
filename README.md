@@ -14,4 +14,4 @@ I am _software developer_ in Vietnam. My specialty is _Back-end Development_ and
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=XuanHuyVu&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=XuanHuyVu&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=XuanHuyVu&label=Profile%20Views&color=1&icon=8&pretty=true)](https://visitcount.itsvg.in)
