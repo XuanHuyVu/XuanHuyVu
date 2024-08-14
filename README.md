@@ -2,7 +2,7 @@
 
 <!--   my-header-img -->
 <a href="#" target="_blank">
-  <img src="svg/XuanHuyVu.svg" width="1200" alt="XuanHuyVu" />
+  <img src="svg/XuanHuyVu.svg" width="2000" alt="XuanHuyVu" />
 </a>
 
 <p align="center">
