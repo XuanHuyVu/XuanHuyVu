@@ -1,9 +1,5 @@
 ![](svg/welcome.svg)
 
-<p align="center">
-    [![](https://visitcount.itsvg.in/api?id=XuanHuyVu&label=Profile%20Views&color=1&icon=8&pretty=true)](https://visitcount.itsvg.in)
-</p>
-
 <!--   my-header-img -->
 <a href="#" target="_blank">
   <img src="svg/XuanHuyVu.svg" width="1200" alt="XuanHuyVu" />
@@ -24,3 +20,4 @@
 
     ![](https://github-readme-stats.vercel.app/api/top-langs/?username=XuanHuyVu&theme=city_light&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 </div>
+[![](https://visitcount.itsvg.in/api?id=XuanHuyVu&label=Profile%20Views&color=1&icon=8&pretty=true)](https://visitcount.itsvg.in)
