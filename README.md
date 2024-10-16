@@ -30,7 +30,7 @@
 
 <span align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=XuanHuyVu&theme=city_light&hide_border=true&include_all_commits=false&count_private=false)
+![](https://github-stats-alpha.vercel.app/api?username=XuanHuyVu)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=XuanHuyVu&theme=city_light&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 </span>
