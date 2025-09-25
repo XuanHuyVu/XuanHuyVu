@@ -46,9 +46,3 @@
 </span>
 
 <img width="100%" loading="lazy" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-
-<span align="center">
-
-[![](https://visitcount.itsvg.in/api?id=XuanHuyVu&label=Profile%20Views&color=1&icon=8&pretty=true)](https://visitcount.itsvg.in)
-
-</span>
