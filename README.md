@@ -14,15 +14,26 @@
 
 <span align="center">
   
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/vuxuanhuy004/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_hhxuy_04/?next=%2F) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/xuanhuyvu/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@huyvx04)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/vuxuanhuy004/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_hhxuy_04/?next=%2F) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/xuanhuyvu/) 
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@huyvx04)
 
 </span>
 
 <h2 align="center"> 💻 Technologies and Tools 🛠: </h2>
 
 <span align="center">
-
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="57" height="57" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="57" height="57" /><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="57" height="57" /><img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="57" height="57" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="57" height="57" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="57" height="57" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="57" height="57" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="57" height="57" /><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="57" height="57" /></div>
+  <div style="display: flex; align-items: flex-start;">
+    <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="57" height="57" />
+    <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="57" height="57" />
+    <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="57" height="57" />
+    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="57" height="57" />
+    <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="57" height="57" />
+    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="57" height="57" />
+    <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="57" height="57" />
+    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="57" height="57" />
+  </div>
 </span>
 
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
