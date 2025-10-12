@@ -21,18 +21,16 @@
 
 </span>
 
-<h2 align="center"> 💻 Technologies and Tools 🛠: </h2>
+<h2 align="center"> 💻 Tech Stacks 🛠: </h2>
 
 <span align="center">
   <div style="display: flex; align-items: flex-start;">
     <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="57" height="57" />
     <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="57" height="57" />
-    <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="57" height="57" />
     <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="57" height="57" />
     <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="57" height="57" />
     <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="57" height="57" />
     <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="57" height="57" />
-    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="57" height="57" />
   </div>
 </span>
 
@@ -40,7 +38,6 @@
 
 <span align="center">
 
-![](https://github-stats-alpha.vercel.app/api?username=XuanHuyVu&cc=000&tc=fff&ic=fff&bc=000)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=XuanHuyVu&theme=city_light&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 </span>
