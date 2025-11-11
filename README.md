@@ -36,14 +36,6 @@
   </div>
 </span>
 
-<h2 align="center">🔥 GitHub Stats 🔥</h2>
-
-<span align="center">
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=XuanHuyVu&theme=city_light&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-</span>
-
 <img width="100%" loading="lazy" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 _Thanks for visiting! Feel free to connect, discuss, or contribute with me!_
