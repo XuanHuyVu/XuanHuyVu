@@ -11,6 +11,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&duration=4500&pause=1000&color=47A9FF&center=true&vCenter=true&multiline=true&width=500&height=100&lines=I+am+software+developer+in+Vietnam.;My+specialty+is+Back-end.;I+have+a+dream+to+become+a+DevOps+engineer.)](https://git.io/typing-svg)
 
 </span>
+<br/>
 
 <h2 align="center">🌐 Connect with Me</h2>
 
