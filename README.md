@@ -24,18 +24,16 @@
 
 </span>
 
-<h2 align="center"> 💻 Tech Stacks 🛠: </h2>
+<h2 align="center">💻 Tech Stacks 🛠</h2>
 
-<span align="center">
-  <div style="display: flex; align-items: flex-start;">
-    <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="57" height="57" />
-    <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="57" height="57" />
-    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="57" height="57" />
-    <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="57" height="57" />
-    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="57" height="57" />
-    <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="57" height="57" />
-  </div>
-</span>
+<p align="center">
+  <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="57" />&nbsp;
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="57" />&nbsp;
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="57" />&nbsp;
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="57" />&nbsp;
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="57" />&nbsp;
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" width="57" />
+</p>
 
 <img width="100%" loading="lazy" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
