@@ -24,17 +24,6 @@
 
 </span>
 
-<h2 align="center">💻 Tech Stacks 🛠</h2>
-
-<p align="center">
-  <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="57" />&nbsp;
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="57" />&nbsp;
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="57" />&nbsp;
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="57" />&nbsp;
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="57" />&nbsp;
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" width="57" />
-</p>
-
 <img width="100%" loading="lazy" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 _Thanks for visiting! Feel free to connect, discuss, or contribute with me!_
